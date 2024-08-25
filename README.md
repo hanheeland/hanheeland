@@ -19,6 +19,7 @@
             <img src="https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
             <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
             <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+            <img src="https://img.shields.io/badge/svn-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white">
           </div>
     </div>
     
